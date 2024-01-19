@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UasKelompok9</string>
+    <string name="hello">Hello</string>
+    <string name="member">Member</string>
+    <string name="search_elements">Search Elements</string>
+    <string name="books">Books</string>
+    <string name="members">Members</string>
+    <string name="borrow">Borrow</string>
+    <string name="return_books">return books</string>
+    <string name="notes">notes</string>
+    <string name="note">NOTES</string>
+    <string name="dumy_text">Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</string>
+    <string name="add_book">ADD BOOK</string>
+    <string name="add_member">ADD MEMBER</string>
+    <string name="add_members">Add Member</string>
+    <string name="edit_member">Edit Member</string>
+    <string name="home">Home</string>
+</resources>

@@ -1,0 +1,52 @@
+<!-- list_item_book.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <TextView
+        android:id="@+id/textViewBorrowId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Borrow Id"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewMemberName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Book Title"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewBookTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Book Title"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:textColor="@color/CyberYellow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewBorrowDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Borrow Date"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewReturnDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Return Date"
+        android:textSize="14sp" />
+
+    <!-- Tambahkan elemen UI lainnya sesuai kebutuhan -->
+
+</LinearLayout>
